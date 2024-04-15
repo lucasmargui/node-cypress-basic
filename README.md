@@ -13,8 +13,7 @@ Install Cypress
 npm install -D cypress@12.5.0
 ```
 
-
-Abrir o Cypress
+Open Cypress
 
 ```bash
 npx cypress open
