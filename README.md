@@ -24,19 +24,71 @@ npx cypress open
 
 ## What is it for
 
-End-to-end
-User Interface
-Api's
-Components
-Unity
+- End-to-end
+- User Interface
+- Api's
+- Components
+- Unity
 
 ## Technologies
 
-Node
-Javascript/Typescript
-Mocha
-Chai
-Asynchronous
+- Node
+- Javascript/Typescript
+- Mocha
+- Chai
+- Asynchronous
+
+
+## Commands
+
+### Find elements on canvas
+
+- get
+- contains
+- context
+
+
+
+### Interact with elements
+
+- type
+- click
+- select
+- check/uncheck
+
+
+### File handling
+
+- writeFile
+- readFile
+- fixture
+
+### Mocks and simulations
+
+- server & route
+- intercept
+- wait
+- spy,stub
+- tick
+- clock
+  
+
+### Browser control
+
+- clearCookie/clearCookies
+- clearLocalStorage
+- onBeforeLoad
+- onLoad
+- window
+- viewport
+  
+
+### Assertions
+
+- expect
+- should
+- assert
+
 
 
 ## Best Practicies
@@ -139,16 +191,5 @@ use routes e.g. cars, motorcycles
 
 
 
-
-
-
-## Commands
-
-Find elements on canvas
-Interact with elements
-File handling
-Mocks and simulations
-Browser control
-Assertions
 
 
