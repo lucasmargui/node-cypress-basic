@@ -1,8 +1,7 @@
 
 # Getting Start
 
-
-Inicializar um projeto Node
+Initialize a Node project
 
 ```bash
 npm init –yes
