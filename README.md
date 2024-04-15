@@ -1,25 +1,6 @@
+# Node + Cypress
 
-# Getting Start
-
-Initialize a Node project
-
-```bash
-npm init –yes
-```
-
-Install Cypress
-
-```bash
-npm install -D cypress@12.5.0
-```
-
-Open Cypress
-
-```bash
-npx cypress open
-```
-
-
+This example shows how to configure Node to work with Cypress
 
 
 ## What is it for
@@ -206,6 +187,27 @@ npx cypress open
 ✔️: 
 use routes e.g. cars, motorcycles
 <br>
+
+
+## Getting Started
+
+Initialize a Node project
+
+```bash
+npm init –yes
+```
+
+Install Cypress
+
+```bash
+npm install -D cypress@12.5.0
+```
+
+Open Cypress
+
+```bash
+npx cypress open
+```
 
 
 
