@@ -7,8 +7,7 @@ Initialize a Node project
 npm init –yes
 ```
 
-
-Instalar o Cypress
+Install Cypress
 
 ```bash
 npm install -D cypress@12.5.0
